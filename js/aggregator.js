@@ -150,6 +150,7 @@ var OpenSpending = OpenSpending || {};
             id: 'root',
             label: 'Total',
             color: '#555',
+            //color: '#0099CC',
             currency: data.summary.currency[self.config.measure],
             children: [],
             level: 0,
